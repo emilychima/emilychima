@@ -1,4 +1,4 @@
-# Hi, I'm Emily. Welcome to my GitHub! ✨✨
+# ✨✨ Hi, I'm Emily. Welcome to my GitHub! ✨✨
 
 ### Digital genius (Software Engineer | Technical Writer)
 
