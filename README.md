@@ -2,7 +2,6 @@
 
 ### Digital genius (Software Engineer | Technical Writer)
 
-**Digital genius (Software Engineer | Technical Writer)**
 <!--
 **emilychima/emilychima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
