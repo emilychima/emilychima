@@ -27,7 +27,7 @@
 - 🤔 I’m Currently looking for a Mentor & an Accountability partner/Study buddy.
 
 <hr />
-### :hammer_and_wrench: Tech Languages and Tools :
+### hammer_and_wrench: Tech Languages and Tools :
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30px" style="padding-right:10px" height="30px"/>&nbsp;
