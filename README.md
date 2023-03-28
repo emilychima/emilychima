@@ -5,6 +5,8 @@
 <h1 align="center">
   ✨✨ Hi, I'm Emily. Welcome to my GitHub! ✨✨
   </h1>
+  
+  ![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilychima&show_icons=true&theme=gruvbox)
 
 <div align="center">
   <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/073/938/original/giphy_lapp.gif?1680007348" width="600" height="300"/>
