@@ -54,6 +54,6 @@
   <i>Let's connect and chat! Open to anything under the sun.</i>
   
   <p align="center">
-    <a href="connectwithemilychima@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="mailto:connectwithemilychima@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
 </p>
  
