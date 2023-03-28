@@ -12,7 +12,7 @@
 
 <hr />
 
-### `💻 Creative Digital Genius (Software Engineer | UX/UI Designer | Technical Writer) 📍: Remote`
+### `💻 Creative Digital Genius (Software Engineer | UX/UI Designer | Technical Writer) <br />📍: Remote`
 
 - :telescope: I’m currently working on a Weather project⛅ (with APIs, React, JS, HTML, CSS, & Framework).
 
