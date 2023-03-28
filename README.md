@@ -2,9 +2,13 @@
   <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/073/941/original/images_2.jpeg?1680007940" width="100"/>
 </div>
 
-# ✨✨ Hi, I'm Emily. Welcome to my GitHub! ✨✨
-
-### `Digital genius (Software Engineer | Technical Writer)`
+<h1 align="center">
+  ✨✨ Hi, I'm Emily. Welcome to my GitHub! ✨✨
+  </h1>
+  
+<h3 align="center">
+  `Digital genius (Software Engineer | Technical Writer)`
+  </h3>
 
 <div align="center">
   <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/073/940/original/giphy_2.gif?1680007908" width="600" height="300"/>
