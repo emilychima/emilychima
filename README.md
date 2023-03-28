@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/073/941/original/images_2.jpeg?1680007940" width="100"/>
+</div>
+
 # ✨✨ Hi, I'm Emily. Welcome to my GitHub! ✨✨
 
 ### `Digital genius (Software Engineer | Technical Writer)`
