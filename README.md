@@ -13,7 +13,7 @@
 <hr />
 
 ### `💻 Creative Digital Genius (Software Engineer | UX/UI Designer | Technical Writer)`
-I am a Software Engineer, Profuct Designer & Technical Writer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+### 📍: Remote
 - :telescope: I’m currently working on a Weather project⛅ (with APIs, React, JS, HTML, CSS, & Framework).
 
 - :seedling: Exploring Technical Content Writing.
@@ -26,7 +26,6 @@ I am a Software Engineer, Profuct Designer & Technical Writer <img src="https://
 
 - 🤔 I’m Currently looking for a Mentor & an Accountability partner/Study buddy.
 
-- 📫 How to reach me: 
 <hr />
 ### :hammer_and_wrench: Tech Languages and Tools :
 
@@ -50,17 +49,3 @@ I am a Software Engineer, Profuct Designer & Technical Writer <img src="https://
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emilychima&theme=radical)](https://git.io/streak-stats)
  
-<!--
-**emilychima/emilychima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
