@@ -10,7 +10,7 @@
   <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/073/938/original/giphy_lapp.gif?1680007348" width="600" height="300"/>
 </div>
 
-### `Digital genius (Software Engineer | Technical Writer)`
+### `Digital genius (Software Engineer | UX/UI Designer | Technical Writer)`
  
 <!--
 **emilychima/emilychima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
