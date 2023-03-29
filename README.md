@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=d4959e&multiline=true&width=435&lines=✨✨+Hi, I'm Emily. Welcome to my GitHub! +✨✨." alt="Typing SVG" /></a></h1>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=d4959e&multiline=true&width=435&lines=✨✨+Hi, I'm Emily. Welcome to my GitHub!+✨✨." alt="Typing SVG" /></a></h1>
 
 <div id="header" align="center">
   <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/073/941/original/images_2.jpeg?1680007940" width="100"/>
