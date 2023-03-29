@@ -44,6 +44,9 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emilychima&theme=radical)](https://git.io/streak-stats)
 
+---
+### :writing_hand: Blog Posts :
+
 <hr />
 
 <p align="center">
