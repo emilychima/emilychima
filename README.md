@@ -1,11 +1,9 @@
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=d4959e&multiline=true&width=435&lines=✨✨+Hi, I'm Emily. Welcome to my GitHub!+✨✨." alt="Typing SVG" /></a></h1>
-
-<h1 align="center">
+<h1 align="center" style="color:d4959e">
   ✨✨ Hi, I'm Emily. Welcome to my GitHub! ✨✨
   </h1>
   
 <div align="center">
-  <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/073/940/original/giphy_2.gif?1680007908" width="300" height="200"/>
+  <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/073/940/original/giphy_2.gif?1680007908" max-width: 100%; height="200"/>
 </div>
 
 <hr />
