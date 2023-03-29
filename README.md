@@ -1,9 +1,12 @@
+<img align="center" alt="GIF" src="https://s3.amazonaws.com./code.gif" width="600" height="320" />
+
+
 <h1 align="center">
   ✨✨ Hi, I'm Emily. Welcome to my GitHub! ✨✨
   </h1>
   
 <div align="center">
-  <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/073/940/original/giphy_2.gif?1680007908" width="600" height="300" border-radius: 7px;/>
+  <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/073/940/original/giphy_2.gif?1680007908" width="600" height="300" />
 </div>
 
 <hr />
@@ -41,12 +44,19 @@
 </div>
 
 
-### :fire: My Stats :
+### :fire: My Stats<img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emilychima&theme=radical)](https://git.io/streak-stats)
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilychima&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="Emily's language" height="192px"  width="500px"/>
+ 
+ **Expand to view**
+<details>
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=emilychima&theme=radical&show_icons=true" />
+  </details>
 
 ---
 ### :writing_hand: Blog Posts :
+ <a href="https://hashnode.com/@Thegenztechbabe" target="_blank"><img src="https://img.icons8.com/color/256/hashnode.png"  width = 35px></a>
 
 <hr />
 
