@@ -1,3 +1,5 @@
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=d4959e&multiline=true&width=435&lines=✨✨+Hi, I'm Emily. Welcome to my GitHub! +✨✨." alt="Typing SVG" /></a></h1>
+
 <div id="header" align="center">
   <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/073/941/original/images_2.jpeg?1680007940" width="100"/>
 </div>
@@ -59,4 +61,5 @@
     <a href="https://twitter.com/thegenzTechbabe" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
 </p>
  
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=d4959e&multiline=true&width=435&lines=✨✨+Hi, I'm Emily. Welcome to my GitHub! +✨✨." alt="Typing SVG" /></a></h1>
+
+
