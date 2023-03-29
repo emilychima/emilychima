@@ -1,4 +1,4 @@
-<h1 align="center" style="color:d4959e">
+<h1 align="center style="color:d4959e">
   ✨✨ Hi, I'm Emily. Welcome to my GitHub! ✨✨
   </h1>
   
