@@ -1,9 +1,6 @@
-<img align="center" alt="GIF" src="https://s3.amazonaws.com./code.gif" width="600" height="320" />
-
-
 <h1 align="center">
   ✨✨ Hi, I'm Emily. Welcome to my GitHub! ✨✨
-  </h1>
+ </h1>
   
 <div align="center">
   <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/073/940/original/giphy_2.gif?1680007908" width="600" height="300" />
@@ -56,12 +53,14 @@
 
 ---
 ### :writing_hand: Blog Posts :
+<div>
  <a href="https://hashnode.com/@Thegenztechbabe" target="_blank"><img src="https://img.icons8.com/color/256/hashnode.png"  width = 35px></a>
-
+  <a href="https://medium.com/@emilychima__thegenztechbabe" target="_blank"><img src="https://img.icons8.com/color/256/medium-logo.png"  width = 35px></a>
+  </div>
 <hr />
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>Let's connect and chat! Open to anything under the sun☀.</i>
   
   <p align="center">
     <a href="mailto:connectwithemilychima@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
